@@ -40,7 +40,7 @@ npx hardhat test
 New proposal created
 Event 'ProposalCreated' values are as expected
 New proposal arrived in 'getProposals()' and has correct values
-New proposal arrived in 'getProposal(id)' and has correct values'
+New proposal arrived in 'getProposal(id)' and has correct values
       ✔ Should create new proposal corrctly
 New proposal creation reverted because such proposal already exists
       ✔ Creating already exising proposal should return error
