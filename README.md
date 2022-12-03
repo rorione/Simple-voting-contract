@@ -13,9 +13,9 @@ At the same time only 3 proposals can exist. New one can be added only after any
 Contract stores full Vote history, but doesn't store non active proposals. Use events to search for old proposals.
 
 ## Tests 
-
-Run following command:
+Run following commands:
 ```shell
+npm inslall
 npx hardhat test
 ```
 ### Output example:
