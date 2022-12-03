@@ -77,7 +77,7 @@ Values of event 'VoteCounted' are correct
 Values of vote from 'getVote(id)' are correct
       ✔ Vote should work corrclty (38ms)
 User1 vote reverted because proposal does not exists
-      ✔ Vote should return error if proposal doesn't exists
+      ✔ Vote should return error if proposal doesnt exists
 New proposal created
 User1 vote reverted because proposal was expired
       ✔ Vote should return error if proposal is expired
